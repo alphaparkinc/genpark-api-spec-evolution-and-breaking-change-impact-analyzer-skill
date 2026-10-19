@@ -1,0 +1,8 @@
+{
+  "name": "genpark-api-spec-evolution-and-breaking-change-impact-analyzer-skill",
+  "version": "1.0.0",
+  "description": "Semantic API specification diff analyzer, schema breaking change detector, and downstream agent compatibility evaluator",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
